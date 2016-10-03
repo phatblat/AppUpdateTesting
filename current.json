@@ -1,5 +1,6 @@
 {
-  "statusCode": "1000",
-  "supportStatus": "supported",
+  "statusCode": "1001",
+  "supportStatus": "retired",
   "appStoreUrl": null
 }
+
